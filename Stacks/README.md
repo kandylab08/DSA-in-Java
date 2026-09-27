@@ -1,0 +1,1 @@
+This folder contains the solutions of stack problems.
