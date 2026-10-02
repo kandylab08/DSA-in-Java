@@ -37,7 +37,7 @@ This repository contains my daily practice, solutions, concepts learned, complex
 | Hashing               |               6 |
 | Two Pointers          |               3 |
 | Sliding Window        |               0 |
-| Binary Search         |               4 |
+| Binary Search         |               5 |
 | Linked List           |               0 |
 | Stack                 |               2 |
 | Queue / Deque         |               0 |
@@ -50,12 +50,12 @@ This repository contains my daily practice, solutions, concepts learned, complex
 
 # 📊 Overall Progress
 
-**Problems Solved:** 20
+**Problems Solved:** 21
 
-**Days Completed:** 17
+**Days Completed:** 18
 
-**Current Streak:** 17 days
+**Current Streak:** 18 days
 
-**Medium Problems:** 13
+**Medium Problems:** 14
 
 **Hard Problems:** 0
