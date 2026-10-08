@@ -1,3 +1,6 @@
+import java.util.Map;
+import java.util.HashMap;
+
 class Solution {
     public int findMaxLength(int[] nums) {
         int[] count = new int[2];
