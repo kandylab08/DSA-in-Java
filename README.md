@@ -39,7 +39,7 @@ This repository contains my daily practice, solutions, concepts learned, complex
 | Sliding Window        |               0 |
 | Binary Search         |               7 |
 | Linked List           |               0 |
-| Stack                 |               4 |
+| Stack                 |               6 |
 | Queue / Deque         |               0 |
 | Trees                 |               0 |
 | Heap / Priority Queue |               1 |
@@ -50,12 +50,12 @@ This repository contains my daily practice, solutions, concepts learned, complex
 
 # 📊 Overall Progress
 
-**Problems Solved:** 27
+**Problems Solved:** 28
 
-**Days Completed:** 24
+**Days Completed:** 26
 
-**Current Streak:** 24 days
+**Current Streak:** 26 days
 
 **Medium Problems:** 19
 
-**Hard Problems:** 0
+**Hard Problems:** 1
