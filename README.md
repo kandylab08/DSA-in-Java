@@ -50,12 +50,12 @@ This repository contains my daily practice, solutions, concepts learned, complex
 
 # 📊 Overall Progress
 
-**Problems Solved:** 33
+**Problems Solved:** 34
 
-**Days Completed:** 31
+**Days Completed:** 32
 
-**Current Streak:** 31 days
+**Current Streak:** 32 days
 
-**Medium Problems:** 19
+**Medium Problems:** 20
 
 **Hard Problems:** 1
