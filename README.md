@@ -32,7 +32,7 @@ This repository contains my daily practice, solutions, concepts learned, complex
 | Topic                 | Problems Solved |
 | --------------------- | --------------: |
 | Java Basics           |               0 |
-| Arrays                |               9 |
+| Arrays                |               10 |
 | Strings               |               1 |
 | Hashing               |               8 |
 | Two Pointers          |               7 |
@@ -50,11 +50,11 @@ This repository contains my daily practice, solutions, concepts learned, complex
 
 # 📊 Overall Progress
 
-**Problems Solved:** 35
+**Problems Solved:** 36
 
-**Days Completed:** 33
+**Days Completed:** 34
 
-**Current Streak:** 33 days
+**Current Streak:** 34 days
 
 **Medium Problems:** 20
 
