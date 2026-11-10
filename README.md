@@ -32,11 +32,11 @@ This repository contains my daily practice, solutions, concepts learned, complex
 | Topic                 | Problems Solved |
 | --------------------- | --------------: |
 | Java Basics           |               0 |
-| Arrays                |               20 |
+| Arrays                |               21 |
 | Strings               |               5 |
 | Hashing               |               8 |
 | Two Pointers          |               7 |
-| Sliding Window        |               10 |
+| Sliding Window        |               11 |
 | Binary Search         |               7 |
 | Linked List           |               0 |
 | Stack                 |               6 |
@@ -50,12 +50,12 @@ This repository contains my daily practice, solutions, concepts learned, complex
 
 # 📊 Overall Progress
 
-**Problems Solved:** 50
+**Problems Solved:** 51
 
-**Days Completed:** 48
+**Days Completed:** 49
 
-**Current Streak:** 48 days
+**Current Streak:** 49 days
 
-**Medium Problems:** 32
+**Medium Problems:** 33
 
 **Hard Problems:** 1
